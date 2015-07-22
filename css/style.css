@@ -1,0 +1,20 @@
+*{
+	margin: auto;
+	font-family: ”Microsoft Yahei“;
+}
+body{
+	background-image: URL(../img/smog.jpg);
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+header{
+	background-color: rgba(41,61,68,0.5);
+	height: 50px;
+	width: 100%;
+	color: #fff;
+	padding-left: 10%;
+	padding-top: 20px;
+	font-size: 25px;
+}
