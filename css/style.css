@@ -1,5 +1,5 @@
 *{
-	margin: auto;
+	margin: 0 auto;
 	font-family: ”Microsoft Yahei“;
 }
 body{
@@ -14,7 +14,21 @@ header{
 	height: 50px;
 	width: 100%;
 	color: #fff;
+	position:relative;
 	padding-left: 10%;
 	padding-top: 20px;
 	font-size: 25px;
+	margin-bottom: 20px;
+}
+#container{
+	width:80%;
+	padding:5%;
+	border: #355258 solid 1px;
+	border-radius:5px;
+	margin-bottom: 20px;
+}
+footer{
+	text-align: center;
+	border-top: #355258 solid 1px;
+	font-size: 15px;
 }
